@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/aleconte"><img src="https://api.daily.dev/devcards/0768f3e3fccc4707a5ccd7f0fe2cdcef.png?r=jjz" width="400" alt="Antoine Leconte's Dev Card"/></a>
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,md,html,css,sass,php,js,ts,react,nextjs,symfony,laravel,materialui,bootstrap,wordpress,git,github,gitlab,postman,redis,linux,nodejs,bun,docker,electron,figma,)](https://skillicons.dev)
 
 <!--
