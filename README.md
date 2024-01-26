@@ -10,6 +10,12 @@ Antoine Leconte
 
 
 
+
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,md,html,css,sass,php,js,ts,react,nextjs,symfony,laravel,materialui,bootstrap,wordpress,git,github,gitlab,postman,redis,linux,nodejs,bun,docker,electron,figma,)](https://skillicons.dev)
 
 <!--
