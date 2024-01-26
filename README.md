@@ -1,13 +1,5 @@
 Antoine Leconte
 
-👨‍🎓 Étudiant Concepteur developpeur d'applications en alternance.
-
-🚀 Passionné par la technologie, je travaille sur des projets en entreprise, académiques et personnels pour approfondir mes compétences.
-
-📘 Actuellement concentré sur la conception de logiciels.
-
-💡 Découvrez mes projets et n'hésitez pas à me contacter pour des opportunités de collaboration académique !
-
 👨‍🎓 Student | Application Developer in Apprenticeship
 
 🚀 Technology enthusiast working on projects in the industry, academia, and personal space to enhance skills.
