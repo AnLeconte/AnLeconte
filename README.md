@@ -18,4 +18,3 @@ Antoine Leconte
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,md,html,css,sass,php,js,ts,react,nextjs,symfony,laravel,materialui,bootstrap,wordpress,git,github,gitlab,postman,redis,linux,nodejs,bun,docker,electron,figma,)](https://skillicons.dev)
 
-<a href="antoine.leconte9462@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
