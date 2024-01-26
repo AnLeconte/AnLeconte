@@ -1,4 +1,12 @@
-<a href="https://app.daily.dev/aleconte"><img src="https://api.daily.dev/devcards/0768f3e3fccc4707a5ccd7f0fe2cdcef.png?r=jjz" width="400" alt="Antoine Leconte's Dev Card"/></a>
+Antoine Leconte
+
+👨‍🎓 Étudiant Concepteur developpeur d'applications.
+
+🚀 Passionné par la technologie, je travaille sur des projets académiques et personnels pour approfondir mes compétences.
+
+📘 Actuellement concentré sur la conception de logiciels.
+
+💡 Découvrez mes projets et n'hésitez pas à me contacter pour des opportunités de collaboration académique !
 
 
 
