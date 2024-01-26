@@ -9,6 +9,7 @@ Antoine Leconte
 💡 Découvrez mes projets et n'hésitez pas à me contacter pour des opportunités de collaboration académique !
 
 👨‍🎓 Student | Application Developer in Apprenticeship
+
 🚀 Technology enthusiast working on projects in the industry, academia, and personal space to enhance skills.
 
 📘 Currently focused on software design.
