@@ -12,6 +12,6 @@ Antoine Leconte
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,md,html,css,sass,php,js,ts,react,nextjs,symfony,laravel,materialui,bootstrap,wordpress,git,github,gitlab,postman,redis,linux,nodejs,bun,docker,electron,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,md,html,css,sass,php,js,ts,react,nextjs,symfony,laravel,materialui,bootstrap,wordpress,git,github,gitlab,postman,redis,linux,nodejs,bun,docker,electron,figma&perline=10" />
   </a>
 </p>
