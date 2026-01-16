@@ -1,7 +1,5 @@
 Antoine Leconte
 
-👨‍🎓 Student | Application Developer in Apprenticeship
-
 🚀 Technology enthusiast working on projects in the industry, academia, and personal space to enhance skills.
 
 📘 Currently focused on software design.
